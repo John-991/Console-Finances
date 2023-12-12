@@ -1,6 +1,6 @@
 # Console-Finances
 
-## The task involved making a computer program to check a company's money details from a big bunch of data.
+### The task involved making a computer program to check a company's money details from a big bunch of data.
 
 ## Planning steps
 Sketching out the program's blueprint
@@ -15,15 +15,23 @@ Managing a large amount of information
 ## Decision-making
 Choosing actions based on conditions
 
+## Installation
+
+Upload index.html, license.txt, images and JS file to the deployed webserver.
+
+The deployed website linked was deployed using GitHub Pages.
+[Link to the deployed website](https://john-991.github.io/Bootstrap-Portfolio/)
+
 ## instructions 
 Once the webpage appears, right-click on the blank space within the page's content area. Then, select the "Inspect" option from the menu that appears after the right-click, usually found towards the bottom of the list. This selection will open the inspector tool.
 Then select the console.
 
+<img src="starter/images" width="500" height="600">
 
 
 ## Credits
 
-
+Collaborators on this project included staff, TAs, and students in the EDX Boot Camp 2023 cohort. 
 
 MIT License
 
