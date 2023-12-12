@@ -33,7 +33,7 @@ Then select the console.
 
 Collaborators on this project included staff, TAs, and students in the EDX Boot Camp 2023 cohort. 
 
-MIT License
+## MIT License
 
 Copyright (c) 2023 John-991
 
