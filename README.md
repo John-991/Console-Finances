@@ -26,7 +26,7 @@ The deployed website linked was deployed using GitHub Pages.
 Once the webpage appears, right-click on the blank space within the page's content area. Then, select the "Inspect" option from the menu that appears after the right-click, usually found towards the bottom of the list. This selection will open the inspector tool.
 Then select the console.
 
-<img src="starter/images/screenshot.png" width="500" height="600">
+<img src="starter/images/screenshot.png" width="650" height="600">
 
 
 ## Credits
